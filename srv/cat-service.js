@@ -20,4 +20,4 @@ module.exports = (srv) => {
     if (each.stock > 111)  each.title += ' -- 11% discount!'
   })
 
-}
+} 
